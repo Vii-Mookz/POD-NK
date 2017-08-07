@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_margin="@dimen/mini_margin"
-        android:background="@color/Cornsilk2"
+        android:background="@color/WhiteSmoke1"
         android:orientation="vertical">
 
         <TextView
@@ -21,6 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/mini_margin"
+            android:background="@color/WhiteSmoke1"
             android:text="@string/InvoiceNo"
             android:textColor="@color/MediumBlue"
             android:textSize="24sp"

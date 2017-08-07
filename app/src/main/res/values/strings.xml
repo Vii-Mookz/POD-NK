@@ -31,7 +31,7 @@
     <string name="RetQuantity">Return QTY</string>
     <string name="ReturnAll">Return All</string>
     <string name="Finish">Finish</string>
-    <string name="InvoiceNo">Invoice No</string>
+    <string name="InvoiceNo" translatable="false">Invoice No</string>
     <string name="Logo">Logo</string>
     <string name="Header">Header</string>
     <string name="Descript">Descript</string>
