@@ -223,7 +223,7 @@ public class DetailJobActivity extends AppCompatActivity {
                     }
                 }
 
-                storeTextView.setText(getResources().getText(R.string.Store) + " : " + placeString);
+                storeTextView.setText(placeString);
                 arrivalTimeTextView.setText(arriveTimeString);
                 InvoiceListAdaptor invoiceListAdaptor = new InvoiceListAdaptor(DetailJobActivity.this, invoiceStrings);
                 invoiceListView.setAdapter(invoiceListAdaptor);
